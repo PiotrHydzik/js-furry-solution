@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#board {
+    margin: 0 auto;
+    width: 640px;
+    height: 640px;
+    padding-top: 32px;
+}
+
+#board div {
+    float: left;
+    width: 64px;
+    height: 64px;
+    border: 1px solid #888;
+}
+
+.coin {
+    background-image: url("../images/coin.png");
+    background-repeat: none;
+    background-size: contain;   
+}
+
+.furry {
+    background-image: url("../images/furry.png");
+    background-repeat: none;
+    background-size: contain;
+}
+
+.hide {
+    display: none;
+}
+
+h1 {
+    clear: both;
+    text-align: center;
+}
