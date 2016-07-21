@@ -10,6 +10,8 @@ Gdy gracz uderzy w ścianę, gra się kończy: plansza znika i, jak to w grach k
 
 W każdym momencie gry, gracz musi widzieć ile monet już zebrał.
 
+Tutaj możesz obejrzeć przykładowe rozwiązanie: https://marcin-barylka.github.io/js-furry-solution/
+
 ## 1. Budowanie planszy
 
 * Zajrzyj do pliku `index.html`. Znajdziesz w nim mnóstwo pustych elementów `<div>`. Jest ich dokładnie 100. Będą to pola kwadratowej planszy o wymiarach 10x10 pól. 
